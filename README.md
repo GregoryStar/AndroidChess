@@ -1,5 +1,5 @@
 # AndroidChess
-Fully functional chess application for built for Android Lollipop.
+Fully functional chess application built for Android Lollipop.
 
 App includes visual legal-move suggestion, game navigation, promotion dialog boxes,
 and game-state alerts (checkmate, stalemate).
