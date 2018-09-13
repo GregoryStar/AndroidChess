@@ -7,9 +7,9 @@ and game-state alerts (checkmate, stalemate).
 UI tends to scale well for most modern phones, but is not perfect. 
 Short-term upgrades include:
 
-  -Complete Scalability
-  -Settings Menu (color, pieces, etc.)
-  -Board Flipping with Moves
+* Complete Scalability
+* Settings Menu (color, pieces, etc.)
+* Board Flipping with Moves
   
 Eventually I'd also like to add a custom engine to play against, and possibly a
 multiplayer component.
